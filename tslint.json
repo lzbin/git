@@ -1,0 +1,16 @@
+{
+    "lintOptions": {
+      "typeCheck": true
+    },
+    "extends": [
+      "tslint:recommended"
+    ],
+    "rules": {
+      "interface-name": [true, "always-prefix"],
+      "no-constant-condition": true,
+      "max-line-length": [
+        true,
+        120
+      ]
+    }
+}
