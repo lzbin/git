@@ -13,5 +13,5 @@ const account: IAccount = {
 
 const account2: IAccount = {
     age: 20,
-    name: "李四"
-}
+    name: "李四",
+};
